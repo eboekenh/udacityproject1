@@ -1,6 +1,6 @@
 # NovaTech Data Verification Log
 
-**Student Name:** Wysk
+**Student Name:** Ecem Bökenheide
 **Date:** September 1, 2026
 
 ## Instructions
