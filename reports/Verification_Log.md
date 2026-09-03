@@ -29,6 +29,10 @@ Pick one fact from above and confirm it independently in the QuickSight dataset 
 - **Consistent?** Yes — all three independent checks (Quick Chat over the CRM dataset, Quick Chat over the Reference Documents PDF, and a direct aggregation in the QuickSight dataset editor) agree on 85 accounts, confirming both data integrity and the accuracy of Q's answers.
 
 Screenshoots
-
+1.
 <img width="516" height="356" alt="image" src="https://github.com/user-attachments/assets/510e989e-862a-4556-95c6-f2ccccf89039" />
+2.
 <img width="967" height="622" alt="image" src="https://github.com/user-attachments/assets/e28a8ade-0ca6-42d8-91af-5809d23dff03" />
+3.
+<img width="536" height="365" alt="image" src="https://github.com/user-attachments/assets/8f2b3fed-d5c7-42f5-98dc-0a0a061e56e4" />
+
