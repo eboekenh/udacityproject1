@@ -11,7 +11,7 @@ Query each pre-indexed knowledge base using Quick Chat. For each question, recor
 
 | # | Knowledge Base | Question Asked | Expected Answer | Q's Actual Answer | Match? | Notes |
 |---|----------------|---------------|-----------------|-------------------|--------|-------|
-| 1 | NovaTech CRM Deals | How many unique accounts are in this dataset? | 85 (per data dictionary) | 85 unique accounts | ✔ Yes | Confirms account_id join key coverage across CRM. |
+| 1 | NovaTech CRM Deals | How many unique accounts are in this dataset? | 85 (per data dictionary) | 85 unique accounts | ✔ Yes | - |
 | 2 | NovaTech CRM Deals | How many deals are Won vs Lost? | Won = 315, Lost = 184 (499 total) | Won 315, Lost 184 (499 total, 63% win rate) | ✔ Yes | Exact match to data dictionary. |
 | 3 | NovaTech Marketing Campaigns | What are the distinct campaign channels? | Direct Mail, Email, Organic Search, Paid Social, Partner Referral (5 values) | Same 5 channels returned | ✔ Yes | Exact match. |
 | 4 | NovaTech Marketing Campaigns | What percentage of leads responded to campaigns (campaign_response = 1)? | 27.2% (609 of 2,240) | 27.19% (609 of 2,240) | ✔ Yes | Rounding difference only (27.19% vs 27.2%). |
@@ -31,3 +31,4 @@ Pick one fact from above and confirm it independently in the QuickSight dataset 
 Screenshoots
 
 <img width="516" height="356" alt="image" src="https://github.com/user-attachments/assets/510e989e-862a-4556-95c6-f2ccccf89039" />
+<img width="967" height="622" alt="image" src="https://github.com/user-attachments/assets/e28a8ade-0ca6-42d8-91af-5809d23dff03" />
