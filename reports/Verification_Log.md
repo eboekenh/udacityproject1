@@ -27,3 +27,7 @@ Pick one fact from above and confirm it independently in the QuickSight dataset 
 - **Chat said:** 85 unique accounts (from NovaTech CRM Deals dataset) and 85 active accounts (from the company background reference document) — two independent knowledge bases agree.
 - **QuickSight shows:** Opened `novatech_crm_deals.csv` in the dataset editor and added a temporary Aggregate transform step (Count Distinct on `account_id`). The preview returned **85** as the distinct count. The change was not saved (Cancel was clicked) so the underlying dataset was left untouched.
 - **Consistent?** Yes — all three independent checks (Quick Chat over the CRM dataset, Quick Chat over the Reference Documents PDF, and a direct aggregation in the QuickSight dataset editor) agree on 85 accounts, confirming both data integrity and the accuracy of Q's answers.
+
+Screenshoots
+
+<img width="516" height="356" alt="image" src="https://github.com/user-attachments/assets/510e989e-862a-4556-95c6-f2ccccf89039" />
