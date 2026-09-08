@@ -1,0 +1,21 @@
+Project Instructions: NovaTech Revenue Intelligence Dashboard
+NovaTech Solutions is a B2B SaaS company whose revenue data lives in three separate systems: CRM deals, marketing campaigns, and support tickets. VP of Revenue Operations Sarah Chen has asked you to unify these into a single Revenue Intelligence Dashboard so her team can spot revenue trends, identify at-risk accounts, and make faster decisions.
+Your workspace includes pre-indexed knowledge bases (created by the instructor), three CSV starter files, a data dictionary, a company background brief, and Sarah Chen's dashboard requirements brief. Read all three reference documents before you begin.
+Building unified analytics dashboards from siloed data sources is a core responsibility for BI analysts — this project mirrors the exact workflow you would follow when joining a new team and being asked to consolidate reporting across multiple business systems.
+Collect Screenshots
+As you complete the following project tasks, make sure to collect screenshots from the Submission Deliverables section below to submit.
+ 
+Task List
+Complete the following tasks to build the NovaTech Revenue Intelligence Dashboard.
+Verify Your Implementation
+Before submitting, walk through these verification scenarios to confirm your work is complete.
+Verification 1 — Data completeness Open each of your four datasets and confirm the row counts and column counts match your expectations. The unified dataset should have more rows than any individual source (due to joins). If the row count seems unexpectedly high, review your join type and consider whether fan-out is occurring as expected.
+Verification 2 — Dashboard interactivity Open your published dashboard. On each sheet, apply a filter and confirm the visuals update. Click a data point to trigger one-click filtering on a second visual. Use the cross-sheet navigation action and confirm it takes you to the correct sheet.
+Verification 3 — Quick Chat accuracy Open Quick Chat scoped to your Topic. Ask a question you know the answer to from your dashboard (e.g., "What is the total revenue from closed-won deals?"). Compare Q's answer to the KPI on your Sales Pipeline sheet. They should agree or you should be able to explain the discrepancy.
+Verification 4 — Report completeness Review your executive report against the requirements: Does it cover data strategy, design rationale, Topic configuration effects, key insights with actions, and AI vs. dashboard comparison? Can a non-technical reader understand it without logging in?
+Verification 5 — Annotation quality Review your dashboard annotations. Each should go beyond restating the chart title — it should include a specific number, a business explanation, and a recommended action.
+Submission Checklist
+Before submitting, confirm you have included all of the following:
+
+
+
