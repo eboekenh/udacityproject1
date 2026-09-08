@@ -17,5 +17,18 @@ Verification 5 — Annotation quality Review your dashboard annotations. Each sh
 Submission Checklist
 Before submitting, confirm you have included all of the following:
 
+```
+Submission Checklist
 
+Before submitting, confirm you have included all of the following:
+
+- Verification log — at least 6 entries covering all three knowledge bases, using the provided markdown template or equivalent structured format
+- Data transformation screenshots — join diagram, join configuration, calculated fields, and data type corrections
+- Dashboard PDF export — all 3 sheets (Marketing Funnel, Sales Pipeline, Customer Health)
+- Before/after Topic screenshots — baseline Q responses and post-Topic Q responses for the same 2–3 questions
+- Q Exploration Log — at least 5 entries spanning all three data domains with questions, Q responses, and dashboard verification
+- Dashboard executive summary text — auto-generated from the published dashboard (if available in your workspace)
+- Annotated dashboard screenshots — showing 3–5 text annotations on your dashboard sheets
+- Written report for VP Sarah Chen — 1–3 pages covering data strategy, design rationale, Topic effects, key insights, and AI comparison
+```
 
