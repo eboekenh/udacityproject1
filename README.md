@@ -1,6 +1,6 @@
 # NovaTech Revenue Intelligence Dashboard
 
-Capstone project for the Udacity BI Analyst Nanodegree — a 3-sheet AWS QuickSight ("Amazon Quick") dashboard built for NovaTech Solutions, unifying CRM, Marketing, and Support data behind a single `account_id` join key, plus a natural-language Amazon Q Topic for ad-hoc business questions.
+Capstone project for the Udacity BI Analyst Nanodegree, a 3-sheet AWS QuickSight ("Amazon Quick") dashboard built for NovaTech Solutions, unifying CRM, Marketing, and Support data behind a single `account_id` join key, plus a natural-language Amazon Q Topic for ad-hoc business questions.
 
 ## Contents
 
